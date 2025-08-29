@@ -175,21 +175,21 @@ const trend = ((current - previous) / previous) * 100;
 
 ## 🔮 Future Improvements (With More Time)
 
-### Short Term (1-2 Weeks)
+### Short Term 
 - **Real Database Integration**: PostgreSQL with proper migrations
 - **Authentication System**: JWT-based user management
 - **Advanced Filtering**: Date ranges, custom queries, saved filters
 - **Bulk Operations**: Multi-select and batch actions
 - **Export Functionality**: Real CSV/Excel export implementation
 
-### Medium Term (1-2 Months)
+### Medium Term 
 - **Real-time Updates**: WebSocket integration for live data
 - **Advanced Analytics**: Trend analysis and forecasting
 - **Mobile Optimization**: Touch-friendly interactions
 - **Offline Support**: Service worker for offline functionality
 - **API Integration**: Connect to existing ERP systems
 
-### Long Term (3-6 Months)
+### Long Term 
 - **AI/ML Integration**: Demand forecasting and optimization
 - **Multi-tenant Architecture**: Support multiple organizations
 - **Advanced Reporting**: Custom dashboard builder
